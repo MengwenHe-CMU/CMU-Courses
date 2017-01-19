@@ -1,2 +1,2 @@
-# Lectures Notes
-https://mengwenhe-cmu.github.io/LectureNotes/
+# CMU-Courses
+https://mengwenhe-cmu.github.io/CMU-Courses/
