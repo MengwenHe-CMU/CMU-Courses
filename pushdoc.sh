@@ -5,7 +5,7 @@ do
   echo $PWD
   git add -A
   git commit -a -m "auto-update"
-  git push
+  git push origin HEAD:master
   cd ..
 done
 git add -A
