@@ -5,9 +5,9 @@ do
   echo $PWD
   git add -A
   git commit -a -m "auto-update"
-  git push origin HEAD:master
+  git push
   cd ..
 done
 git add -A
 git commit -a -m "auto-update"
-git push
+git push --recurse-submodules=check
