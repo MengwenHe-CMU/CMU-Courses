@@ -11,3 +11,4 @@ done
 git add -A
 git commit -a -m "auto-update"
 git push --recurse-submodules=check
+git submodule update --remote
