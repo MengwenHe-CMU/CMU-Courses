@@ -1,3 +1,3 @@
 #!/bin/bash
-git submodule update --remote
 git pull
+git submodule update --remote --recursive
