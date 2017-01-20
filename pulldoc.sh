@@ -1,3 +1,10 @@
 #!/bin/bash
 git pull
-git submodule update --remote --recursive
+for d in */;
+do
+  cd $d
+  echo $PWD
+  git checkout master
+  git pull
+  cd ..
+done
