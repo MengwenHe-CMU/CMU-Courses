@@ -1,6 +1,8 @@
 [submodule "17S_10701_MachineLearning"]
 	path = 17S_10701_MachineLearning
 	url = https://github.com/MengwenHe-CMU/17S_10701_MachineLearning.git
+	branch = master
 [submodule "17S_18748_WirelessSensorNetwork"]
 	path = 17S_18748_WirelessSensorNetwork
 	url = https://github.com/MengwenHe-CMU/17S_18748_WirelessSensorNetwork.git
+	branch = master
